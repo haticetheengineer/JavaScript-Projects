@@ -1,0 +1,26 @@
+body {
+    background-color: orange;
+}
+
+#box {
+    width: 50%;
+    height: auto;
+    top: 25%;
+    left: 25%;
+    position: absolute;
+}
+
+.content {
+    border-radius: 15px 0 15px 0;
+    height: auto;
+    background-color: #fff;
+    padding: 50px;
+}
+
+.button-group {
+    text-align: right;
+    margin-top: 10px;
+}
+
+
+
